@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Little Lemon App</string>
+
+    <string name="know_you">Let\'s get to know you</string>
+    <string name="personal_info">Personal Information</string>
+    <string name="name">Rudra</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="email_address">xyz@gmail.com</string>
+    <string name="register">Register</string>
+    <string name="little_lemon">Little Lemon</string>
+    <string name="city">New Delhi</string>
+    <string name="info">We are Mediterranean restaurnat, focused on tradional cuisines</string>
+    <string name="enter_phrase">Enter Search Phrase</string>
+    <string name="order_for_delivery">Order for Delivery</string>
+    <string name="logout">Log Out</string>
+</resources>
